@@ -37,8 +37,3 @@ int main()
 
     cout << "The perimeter 'p' with the most right triangles is " << max << endl;
 }
-
-// create vector of perfect squares of i from 1-1000
-// for loop going from 0 to 
-//  for every square value, substract every square
-//   if result is in list of squares, 
